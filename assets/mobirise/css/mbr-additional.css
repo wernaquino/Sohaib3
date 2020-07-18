@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.08rem;
+  font-size: 2.24rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -548,11 +548,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.08rem;
+  font-size: 2.24rem;
 }
 blockquote {
   border-color: #1e73be;
@@ -1143,9 +1143,9 @@ section.lazy-placeholder:after {
   color: #1e73be;
 }
 .cid-s56KhmObrc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-s56KhmObrc .card {
   align-self: stretch;
@@ -1180,9 +1180,13 @@ section.lazy-placeholder:after {
   width: 100%;
   overflow: hidden;
 }
+.cid-s56KhmObrc .card-title {
+  color: #1e73be;
+  text-align: center;
+}
 .cid-s51CSeprGm {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s51CSeprGm .card-box {
@@ -1205,6 +1209,7 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
   text-align: left;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-s51CSeprGm .mbr-text {
   color: #767676;
